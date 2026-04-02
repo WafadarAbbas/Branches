@@ -11,7 +11,7 @@ function App() {
         <p>This is a feature branch development example</p>
 
         <button onClick={() => setCount(count + 1)}>
-          Count: {count}
+          Coun: {count}
         </button>
       </div>
     </>
