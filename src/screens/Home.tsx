@@ -9,7 +9,7 @@ const Home: React.FC = () => {
       </p>
 
       <button style={styles.button} onClick={() => alert("Hello! 👋")}>
-        Click Me
+        Click Meeee
       </button>
     </div>
   );
